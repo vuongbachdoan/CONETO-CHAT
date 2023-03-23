@@ -1,0 +1,22 @@
+.ant-layout .ant-layout-sider {
+    background-color: #fff;
+    border-right: 0.5px solid #eeeeee;
+    .ant-menu {
+        border: 0px;
+        background-color: transparent;
+    }
+}
+
+.ant-menu-item {
+    svg {
+        height: 100%;
+    }
+}
+
+.ant-divider-horizontal {
+    margin: 12px 0px;
+}
+
+.m-0 {
+    margin: 0px;
+}
